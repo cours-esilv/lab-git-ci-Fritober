@@ -1,4 +1,0 @@
-vim identity.md
-git add identity.md
-git commit
-git push
