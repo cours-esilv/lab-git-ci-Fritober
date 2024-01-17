@@ -1,4 +1,4 @@
 Enter your details below:
 
-* first_name: Johan
-* last_name: Liu
+* first_name: 
+* last_name: 
